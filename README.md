@@ -2,10 +2,7 @@
 ## Go offline for a while
 
 ## 我是三冬四夏会不会有点漫长
-我把项目仓库设置为 private 了。如果您对我感兴趣，欢迎访问我的[博客](https://t-z-s.blog.csdn.net/)，或者加我联系方式
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/7e9c020fed51483ab33743ef32e605f0.jpeg)
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/3b36191a27d24cac9ad17e0abfc4ad2b.jpeg)
-
+暂时把项目仓库设置为 private 了
 <!--
 **t-zs/t-zs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
